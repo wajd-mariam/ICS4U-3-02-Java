@@ -1,6 +1,4 @@
 /*
-* Copyright (c) 2021
-*
 * The Factorial.java program calculates the factorial of an 
 * entered a number and printed it to the user.
 * 
